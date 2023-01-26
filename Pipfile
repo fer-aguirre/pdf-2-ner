@@ -10,6 +10,19 @@ pyprojroot = "*"
 pathlib = "*"
 pandas = "*"
 numpy = "*"
+stanza = "*"
+pdftotext = "*"
+transformers = "*"
+sentencepiece = "*"
+easynmt = "*"
+sacremoses = "*"
+openai = "*"
+spacy = "*"
+streamlit = "*"
+pdf-2-ner = {editable = true, path = "."}
+beautifulsoup4 = "*"
+wget = "*"
+certifi = "*"
 
 [dev-packages]
 
