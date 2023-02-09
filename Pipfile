@@ -23,6 +23,7 @@ pdf-2-ner = {editable = true, path = "."}
 beautifulsoup4 = "*"
 wget = "*"
 certifi = "*"
+rfeed = "*"
 
 [dev-packages]
 
