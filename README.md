@@ -1,6 +1,8 @@
 # PDF 2 NER
 Web application to convert scanned PDF files to text-based data and apply Named Entity Recognition (NER) to extract entities in Spanish
 
+Created by: Fer Aguirre
+
 ## Directory Structure
 ```
 ├── app.py
@@ -38,7 +40,3 @@ Web application to convert scanned PDF files to text-based data and apply Named 
 ## License
 
 This project is released under [MIT License](/LICENSE).
-
----
-
-This repository was generated with [cookiecutter](https://github.com/cookiecutter/cookiecutter) using a [data-journalism](https://github.com/DataCritica/cookiecutter-data-journalism) template for python.
